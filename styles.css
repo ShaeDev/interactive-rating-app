@@ -1,0 +1,31 @@
+body{
+    font-family : sans-serif;
+    background-color: rgb(34, 31, 60);
+    margin:100px;
+
+}
+img{
+    width: 25px;
+    height:25px;
+    padding-top:30px;
+    padding-bottom: 30px;
+    margin-right: 80%;
+    margin-left: 3%;
+}
+#rate-card-container{
+    border-radius: 30px;
+    background-color:rgb(44, 40, 74);
+    margin:auto;
+    padding:30px;
+    height:300px;
+    width: 40%;
+}
+h1{
+    color:rgb(214, 215, 224);
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+#info{
+    color:rgb(156, 158, 168);
+    padding-right: 20px;
+}
